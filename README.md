@@ -28,6 +28,7 @@ Reference:https://www.base64encode.org
 
 Response
 ---------
+
 {
 "access_token": "c24236f1-4d59-4925-aecc-1264a94ca00c",
 "token_type": "bearer",
